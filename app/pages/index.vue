@@ -30,6 +30,13 @@ useSeoMeta({
       <LandingAbout :page />
       <LandingProyectos :page />
     </UPageSection>
+    <UPageSection
+      :ui="{
+        container: 'pt-0!'
+      }"
+    >
+      <LandingHabilidades :page />
+    </UPageSection>
     <LandingContacto :page />
   </UPage>
   <div

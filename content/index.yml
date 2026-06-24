@@ -32,6 +32,56 @@ about:
   description: |
     Soy Analista Programador Universitario (UNJu, 2022–2025) y me especializo en el diseño de APIs REST con .NET (ASP.NET) y en la construcción de interfaces modernas con Nuxt y Vue.js.
     Trabajo con arquitecturas escalables como Vertical Slice y Clean Architecture, y me gusta llevar los proyectos a producción: Docker, CI/CD con GitHub Actions, y monitoreo con Prometheus y Grafana.
+skills:
+  title: "Habilidades técnicas"
+  description: "Tecnologías, herramientas y prácticas con las que trabajo día a día."
+  categories:
+    - title: "Backend"
+      icon: "i-lucide-server"
+      items:
+        - ".NET (ASP.NET)"
+        - "Entity Framework Core"
+        - "Node.js"
+        - "Express"
+        - "Spring Boot"
+    - title: "Frontend"
+      icon: "i-lucide-monitor"
+      items:
+        - "Vue.js"
+        - "Nuxt"
+        - "React"
+        - "Next"
+        - "Nuxt UI"
+        - "Tailwind CSS"
+        - "TypeScript"
+    - title: "Bases de Datos"
+      icon: "i-lucide-database"
+      items:
+        - "PostgreSQL"
+        - "MySQL"
+        - "MongoDB"
+        - "Supabase"
+    - title: "Arquitectura y APIs"
+      icon: "i-lucide-layers"
+      items:
+        - "Vertical Slice Architecture"
+        - "Clean Architecture"
+        - "JWT Authentication"
+        - "REST APIs"
+    - title: "Herramientas y DevOps"
+      icon: "i-lucide-wrench"
+      items:
+        - "Docker"
+        - "GitHub Actions"
+        - "Git"
+        - "Linux"
+        - "Grafana"
+        - "Prometheus"
+        - "HAProxy"
+    - title: "Idiomas"
+      icon: "i-lucide-languages"
+      items:
+        - "Inglés Técnico - Intermedio (B1)"
 contact:
   title: "¿Hablamos?"
   description: "Estoy disponible para nuevas oportunidades. Si te interesa mi perfil o querés hablar de un proyecto, escribime y te respondo a la brevedad."

@@ -31,6 +31,15 @@ export default defineContentConfig({
           images: z.array(createImageSchema())
         }),
         about: createBaseSchema(),
+        skills: z.object({
+          title: z.string(),
+          description: z.string(),
+          categories: z.array(z.object({
+            title: z.string(),
+            icon: z.string(),
+            items: z.array(z.string())
+          }))
+        }),
         contact: z.object({
           title: z.string(),
           description: z.string(),
