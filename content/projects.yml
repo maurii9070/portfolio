@@ -1,0 +1,6 @@
+title: "Proyectos"
+description: "Estos son los proyectos en los que vengo trabajando, tanto personales como académicos. La mayoría son full stack: backend con .NET o Spring, frontend con Nuxt/Next."
+links:
+  - label: "Hablemos"
+    color: "neutral"
+  - label: "Escribime"

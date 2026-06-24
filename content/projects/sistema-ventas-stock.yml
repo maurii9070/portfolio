@@ -1,0 +1,6 @@
+title: "Sistema de Ventas y Stock"
+description: "API REST robusta con Java 21 y Spring Boot 3 sobre MySQL, con herencia para descuentos diferenciados (Premium/Estándar) y control de inventario con soft-delete. Integraciones: Firebase Storage para imágenes, DolarAPI para conversión USD/ARS, sistema de tokens de 6 dígitos con expiración para autorizar transacciones, reportes exportables a Excel (Apache POI) y PDF (iText 7), notificaciones por email vía Gmail SMTP con plantillas Thymeleaf, documentación con Swagger/OpenAPI y pruebas integrales con rollback automático."
+image: https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=1200&h=600&fit=crop&fm=jpg&q=80
+url: "https://github.com/maurii9070"
+tags: ["Java 21", "Spring Boot 3", "MySQL", "Firebase", "Swagger"]
+date: "2024-06-10"
