@@ -8,9 +8,4 @@ export const navLinks: NavigationMenuItem[] = [{
   label: 'Proyectos',
   icon: 'i-lucide-folder',
   to: '/projects'
-}, {
-  label: 'Contacto',
-  icon: 'i-lucide-mail',
-  to: '/#contacto',
-  exactHash: true
 }]

@@ -11,7 +11,9 @@ const { data: page } = await useAsyncData('projects-page', async () => {
 const { data: projects } = await useAsyncData('projects', async () => {
   for (let attempt = 0; attempt < 30; attempt++) {
     const result = await queryCollection('projects').all()
-    if (result && result.length > 0) return result
+    if (result && result.length > 0) {
+      return result.sort((a, b) => new Date(b.date) - new Date(a.date))
+    }
     await new Promise(resolve => setTimeout(resolve, 100))
   }
   return []

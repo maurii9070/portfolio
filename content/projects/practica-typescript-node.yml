@@ -1,6 +1,6 @@
 title: "Proyectos de Práctica (TypeScript & Node.js)"
 description: "Conjunto de APIs y aplicaciones de práctica para explorar el ecosistema TypeScript sobre Node.js, usando Express y Hono.js, con MongoDB como base de datos y ORMs como Prisma y Drizzle. Sirvieron para profundizar en tipado fuerte, validaciones y patrones de diseño de APIs modernas."
-image: https://images.unsplash.com/photo-1517694712202-14dd9538aa97?w=1200&h=600&fit=crop&fm=jpg&q=80
-url: "https://github.com/maurii9070"
+image: https://images.unsplash.com/photo-1555066931-4365d14bab8c?w=1200&h=600&fit=crop&fm=jpg&q=80
+url: "https://github.com/maurii9070/practica-typescript-node"
 tags: ["TypeScript", "Node.js", "Express", "Hono.js", "MongoDB", "Prisma", "Drizzle"]
-date: "2025-02-01"
+date: "2025-08-15"

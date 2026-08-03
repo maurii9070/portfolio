@@ -1,6 +1,6 @@
 title: "Infraestructura & DevOps"
 description: "Co-desarrollo de una aplicación en Next.js con un clúster de PostgreSQL en configuración Maestro/Réplica y HAProxy como balanceador de carga. Pipeline CI/CD automatizado con GitHub Actions hacia Docker Hub, Watchtower para actualizaciones en caliente, y monitoreo en tiempo real con Prometheus y Grafana. Incluye servicios de backups automatizados."
-image: https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=1200&h=600&fit=crop&fm=jpg&q=80
-url: "https://github.com/maurii9070"
+image: https://images.unsplash.com/photo-1558494949-ef010cbdcc31?w=1200&h=600&fit=crop&fm=jpg&q=80
+url: "https://github.com/maurii9070/infraestructura-devops"
 tags: ["Next.js", "PostgreSQL", "Docker", "GitHub Actions", "HAProxy", "Prometheus"]
-date: "2024-08-20"
+date: "2025-10-15"
