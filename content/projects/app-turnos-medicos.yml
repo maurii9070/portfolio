@@ -1,6 +1,6 @@
 title: "App Turnos Médicos"
 description: "Aplicación full stack para gestión y reserva de turnos en consultorios médicos. Resuelve el problema real de organización y solapamiento de citas. Stack: ASP.NET Core con EF Core y PostgreSQL bajo Vertical Slice Architecture, frontend en Nuxt + Nuxt UI, autenticación con Access/Refresh Tokens, integración con Mercado Pago (Webhooks) y almacenamiento de archivos en Supabase."
 image: /projects/app-turnos-medicos.png
-url: "https://github.com/maurii9070/app-turnos-medicos"
+url: "https://github.com/maurii9070/turnos-app-frontend"
 tags: ["ASP.NET Core", "Nuxt", "PostgreSQL", "Mercado Pago", "Supabase"]
 date: "2026-01-15"

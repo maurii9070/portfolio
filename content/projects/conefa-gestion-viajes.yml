@@ -1,6 +1,6 @@
 title: "CONEFA - Gestión de Viajes"
 description: "Prototipo full-stack para digitalizar la operativa de transporte interprovincial (Jujuy ↔ Salta), eliminando la gestión manual en papel de colas, pasajeros, choferes y trazabilidad de viajes. Stack: React + TypeScript + Vite + Tailwind • Node.js + Express + Prisma + PostgreSQL • JWT (Access/Refresh) • Valibot • Roles ADMIN/OPERADOR por sede • Exportación Excel • Soft delete/restore"
 image: /projects/conefa-gestion-viajes.png
-url: "https://github.com/maurii9070/conefa-gestion-viajes"
+url: "https://github.com/maurii9070/Gestion-Viajes"
 tags: ["React", "TypeScript", "Vite", "Tailwind", "Node.js", "Express", "Prisma", "PostgreSQL", "JWT", "Valibot"]
 date: "2025-12-15"
