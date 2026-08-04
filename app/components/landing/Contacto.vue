@@ -47,13 +47,13 @@ const { global } = useAppConfig()
         label="LinkedIn"
       />
       <UButton
-        to="/cv.pdf"
+        to="https://drive.google.com/file/d/1PhpkqQxz42-pmgOBP4L5dWuXxtldg9Os/view?usp=sharing"
         target="_blank"
         size="lg"
         color="neutral"
         variant="outline"
-        icon="i-lucide-file-down"
-        label="Descargar CV"
+        icon="i-lucide-file-text"
+        label="Ver CV"
       />
     </div>
   </UPageSection>
